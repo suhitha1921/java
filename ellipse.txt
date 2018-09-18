@@ -1,0 +1,16 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+class GUVI
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+	  double a,r1=6,r2=7,r3=6,v,p;
+      a=3.14*r1*r2;
+      v=(4.0/3.0)*3.14*r1*r2*r3;
+      p=2*3.14*(math.sqrt((math.pow(r1,2)+math.pow(r2,2)/2);
+      System.out.println("area of ellipse="+a);
+      System.out.println("\nvolume of ellipse="+v);
+      System.out.println("\nperimeter of ellipse="+p);
+	}
+}
